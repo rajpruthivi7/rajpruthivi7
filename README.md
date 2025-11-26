@@ -103,6 +103,5 @@ A reusable data preprocessing system.
 
 ## 📬 Contact
 
-📧 Email: *add your email here*  
-💼 LinkedIn: *your profile*  
-📂 GitHub: *your profile*
+📧 Email: Rajpruthivi7@gmail.com  
+💼 LinkedIn:www.linkedin.com/in/pruthivi-raj-227b45143
